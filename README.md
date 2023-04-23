@@ -14,7 +14,7 @@ deploy in the coming month:
 
 ---
 
-## NOTE TO 2022 LYFT SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
+## NOTE TO 2023 LYFT SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
 
 This web app has been the capstone project of my full-stack education at
 Holberton School and I want to show it off as a demonstration of all the
@@ -33,7 +33,7 @@ application. Please take a look at this separate repository here:
 
 Nonetheless, allow me to talk a little more about this AirBnB clone. This
 repository is the second iteration of the project. In the first version
-(viewable [here](https://github.com/Anteneh2121/AirBnB_clone)), I, together
+(viewable [here](https://github.com/Gtindi/AirBnB_clone)), I, together
 with a cohort mate, built up the initial file storage back-end and
 console from scratch. We pair programmed for most all of this version one work.
 
@@ -45,7 +45,7 @@ to build up the database storage engine of the back-end.
 In between each version, I put together an entire CSS-styled HTML web page
 for the project. This front-end development was coded independently, although
 the HTML files I personally wrote are only posted in
-[version one](https://github.com/Anteneh2121/AirBnB_clone) (the
+[version one](https://github.com/Gtindi/AirBnB_clone) (the
 [web_static](./web_static) folder in this directory was included in the
 fork). Addtionally, all Shell, Puppet, and Fabric deployment scripts/manifests
 were coded myself.
@@ -353,8 +353,7 @@ $ python3 unittest -m tests/test_console.py
 
 
 ## Authors
-Abdulsamad Jimoh   
-Linet Muchunu 
+Gabriel Tindi 
 
 ### 0x02. AirBnB clone - MySQL
 ### Read or watch:
